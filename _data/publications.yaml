@@ -41,6 +41,7 @@ papers:
     authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
     venue: "Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Virtual, December 6-14, 2021."
     paper_pdf: "http://papers.nips.cc/paper/7752-lag-lazily-aggregated-gradient-for-communication-efficient-distributed-learning.pdf"
+    poster: "https://www.dropbox.com/s/m80ytd2kqn4b72p/poster_nips.pdf?dl=0"
     code: "https://github.com/chentianyi1991/LAG-code"
     selected: y
 
