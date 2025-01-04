@@ -15,11 +15,11 @@ papers:
     code: "https://github.com/hanshen95/penalized-bilevel-gradient-descent"
     selected: y
 
-  - title: "Off-policy Evaluation Beyond Overlap: Sharp Partial Identification Under Smoothness"
-    authors: "Samir Khan, <b>Martin Saveski</b>, Johan Ugander"
-    venue: "ICML'24: International Conference on Machine Learning. 2024."
-    paper_pdf: "/assets/publications/2024_ope_lipschitz/paper.pdf"
-    code: "https://github.com/skhan1998/lipschitz-ope"
+  - title: "Towards Exact Gradient-based Training on Analog In-memory Computing"
+    authors: "Zhaoxian Wu, Tayfun Gokmen, Malte J. Rasch and <b>Tianyi Chen</b>"
+    venue: "Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
+    paper_pdf: "https://openreview.net/pdf?id=5GwbKlBIIf"
+    code: ""
     selected: y
 
   - title: "Counterfactual Evaluation of Peer-Review Assignment Policies"
