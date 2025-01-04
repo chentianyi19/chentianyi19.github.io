@@ -1,6 +1,6 @@
 papers:
 
-  - title: "Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking"
+  - title: "Supernotes:"
     authors: "Soham De, Michiel A. Bakker, Jay Baxter, <b>Martin Saveski</b>"
     venue: "Arxiv'24: arXiv preprint. 2024."
     paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
