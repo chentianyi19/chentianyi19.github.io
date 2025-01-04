@@ -6,12 +6,6 @@ experiences:
   subtitle: "Information School"
   category: "work"
 
-- place: "Stanford"
-  time: "2020 - 2023"
-  title: "Postdoc"
-  subtitle: "MS&E"
-  category: "work"
-
 - place: "MIT"
   time: "2014 - 2020"
   title: "Ph.D. Student"
@@ -34,24 +28,6 @@ experiences:
   time: "Summer 2014"
   title: "Machine Learning Scientist, Intern"
   subtitle: "Scalable Machine Learning Group"
-  category: "work"
-
-- place: "Yahoo! Labs"
-  time: "Feb-Aug 2013"
-  title: "Research Scientist, Intern"
-  subtitle: "Social Media Engagement Group"
-  category: "work"
-
-- place: "EM-DMKM"
-  time: "Sep 2011 – Aug 2013"
-  title: "M.Sc. Student"
-  subtitle: "Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/>"
-  category: "school"
-
-- place: "Jozef Stefan Institute"
-  time: "Jan-Aug 2011"
-  title: "Research Assistant"
-  subtitle: "Department of Knowledge Technologies"
   category: "work"
 
 - place: "Staffordshire University"
