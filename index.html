@@ -139,6 +139,10 @@ title: Home
               <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
             {% endif %}
 
+            {% if paper.talk %}
+              <a class="button" href="{{ paper.talk }}" target="_blank">Talk</a>
+            {% endif %}
+
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
