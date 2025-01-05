@@ -19,7 +19,7 @@ title: Home
   <span style="display: inline-block; margin-bottom: 5px">
     <i>Emerging learning problems</i>: federated learning, meta-learning (now ICL), LLMs ﬁne-tuning and alignment;
     </span>
-  <span style="display: inline-block; margin-bottom: 5px">
+  <span style="display: inline-block; margin-bottom: 0px">
  <i>Emerging computing systems</i>: analog in-memory computing, and NextG wireless communication systems.</li> 
  </span>
 </ul>
@@ -57,7 +57,7 @@ title: Home
   {% endfor %}
     </div>
     
-    <div class="tab-pane active" id="news-old">
+    <div class="tab-pane" id="news-old">
     {% assign old_news = site.data.news.news_items | where: "selected", "n" %}    
   {% for news_item in old_news %}
   <p>
@@ -312,7 +312,7 @@ B.S. National University of Sciences and Technology, Pakistan
 <div class="docs-section" id="resume">
   <h4>Vitæ</h4>
 
-  <p>Full Resume in <a href={{ "/assets/cv/cv_web.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p>
+<!--   <p>Full Resume in <a href={{ "/assets/cv/cv_web.pdf" | prepend: site.baseurl }} target="_blank">PDF</a>.</p> -->
 
   <!-- The Timeline -->
   <ul class="timeline">
