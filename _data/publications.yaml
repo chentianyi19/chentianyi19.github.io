@@ -12,6 +12,7 @@ papers:
     authors: "Han Shen, Quan Xiao and <b>Tianyi Chen</b>"
     venue: "<i>Mathematical Programming</i> <b>(MAPR)</b>, to appear, pp. 1-38, 2024."
     paper_pdf: "https://arxiv.org/pdf/2302.05185.pdf"
+    note: "<i>Shorter version in Proc. of International Conference on Machine Learning</i> <b>(ICML)</b>, Honolulu, HI, July 22-29, 2023."
     code: "https://github.com/hanshen95/penalized-bilevel-gradient-descent"
     selected: y
 
