@@ -5,7 +5,7 @@ news_items:
     link: "https://signalprocessingsociety.org/community-involvement/awards-submit-award-nomination#youngauthor"
     selected: y
 
-  - item: "Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted to <b>Mathematical Programming</b> Series A (the final version is coming): On Penalty-based Bilevel Gradient Descent Method"
+  - item: "Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted to <b>Mathematical Programming Series A</b> (the final version is coming): On Penalty-based Bilevel Gradient Descent Method"
     date: "Dec 2024"
     link: "https://arxiv.org/pdf/2302.05185"
     selected: y
@@ -18,14 +18,14 @@ news_items:
   - item: "I am invited to serve as an Area Chair for AISTATS 2025, ICLR 2025, and ICML 2025."
     date: "Oct 2024"
     selected: y
-    
-  - item: "I am invited to present our work at The Foundations of Information, Networks, and Decision Systems <b>(FIND) Seminar</b>, Cornell University"
-    link: "https://find.engineering.cornell.edu/seminar/"
-    date: "Sep 2024"
-    selected: y
 
   - item: "Three papers from our group have been accepted to the main conference of <b>NeurIPS 2024</b>"
     link: "/index.html#publications"
+    date: "Oct 2024"
+    selected: y
+    
+  - item: "I am invited to present our work at The Foundations of Information, Networks, and Decision Systems <b>(FIND) Seminar</b>, Cornell University"
+    link: "https://find.engineering.cornell.edu/seminar/"
     date: "Sep 2024"
     selected: y
 
@@ -34,7 +34,7 @@ news_items:
     date: "Sep 2024"
     selected: y
 
-  - item: "I am invited to present our work at The CPCC Seminar, at the University of California, Irvine"
+  - item: "I am invited to present our work on the theory of analog in-memory training at The CPCC Seminar, at the University of California, Irvine, and The Engineering Seminar, at King's College London"
     link: "https://cpcc.uci.edu/events.php#CPCCSeminarChen"
     date: "Sep 2024"
     selected: y
@@ -43,3 +43,13 @@ news_items:
     link: "https://2024.ieeemlsp.org/toturials/"
     date: "Sep 2024"
     selected: y
+
+  - item: "We are excited to receive <b>a new collaborative NSF project</b> with UCI on bilevel optimization for graph representation learning"
+    link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412486&HistoricalAwards=false"
+    date: "Aug 2024"
+    selected: y
+
+   - item: "Our paper on using the In-Context Learning ability of LLM for wireless symbol detection problems has been accepted to <b>GLOBECOM 2024</b>"
+    link: "https://arxiv.org/pdf/2409.00124"
+    date: "Jul 2024"
+    selected: y 
