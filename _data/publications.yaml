@@ -114,109 +114,109 @@ papers:
   - title: "Alternating Implicit Projected SGD and Its Efficient Variants for Equality-Constrained Bilevel Optimization."
     authors: "Q. Xiao, H. Shen, W. Yin, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Valencia, Spain, April 25-27, 2023."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2211.07096"
     selected: n
 
   - title: "Distributed Offline Policy Optimization Over Batch Data."
     authors: "H. Shen, S. Lu, X. Cui, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Valencia, Spain, April 25-27, 2023."
-    paper_pdf: ""
+    paper_pdf: "https://proceedings.mlr.press/v206/shen23b.html"
     selected: n
 
   - title: "Understanding Benign Overfitting in Meta Learning."
     authors: "L. Chen, S. Lu, and <b>T. Chen</b>."
     venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, New Orleans, LA, November 28 - December 9, 2022."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2206.13482"
     selected: n
   
   - title: "A Single-Timescale Analysis For Stochastic Approximation With Multiple Coupled Sequences."
     authors: "H. Shen and <b>T. Chen</b>."
     venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, New Orleans, LA, November 28 - December 9, 2022. <b>(Oral presentation, Top 1.5% of all submitted papers)</b>"
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2206.10414"
     selected: n
   
   - title: "Sharp-MAML: Sharpness-Aware Model-Agnostic Meta Learning."
     authors: "M. Abbas, Q. Xiao, L. Chen, P.-Y. Chen, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Machine Learning <b>(ICML)</b>, Baltimore, MD, July 17-23, 2022."
-    paper_pdf: ""
+    paper_pdf: "https://proceedings.mlr.press/v162/abbas22b.html"
     selected: n
   
   - title: "Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees."
     authors: "S. Zeng, <b>T. Chen</b>, A. Garcia, and M. Hong."
     venue: "Proc. of Learning for Dynamics and Control Conference <b>(L4DC)</b>, Palo Alto, CA, June 2022."
-    paper_pdf: ""
+    paper_pdf: "https://proceedings.mlr.press/v168/zeng22a/zeng22a.pdf"
     selected: n
   
   - title: "Is Bayesian Model-Agnostic Meta Learning Better than Model-Agnostic Meta Learning, Provably."
     authors: "L. Chen and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, March 28-30, 2022."
-    paper_pdf: ""
+    paper_pdf: "https://proceedings.mlr.press/v151/chen22d/chen22d.pdf"
     selected: n
   
   - title: "A Single-Timescale Stochastic Optimization Method for Stochastic Bilevel Problems."
     authors: "<b>T. Chen</b>, Y. Sun, Q. Xiao, and W. Yin."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, March 28-30, 2022. <b>(Oral presentation, Top 2% of all submitted papers)</b>"
-    paper_pdf: ""
+    paper_pdf: "https://proceedings.mlr.press/v151/chen22e/chen22e.pdf"
     selected: n
   
   - title: "CADA: Communication-Adaptive Distributed Adam."
     authors: "<b>T. Chen</b>, Z. Guo, Y. Sun, and W. Yin."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, April 16-18, 2021."
-    paper_pdf: ""
+    paper_pdf: "http://proceedings.mlr.press/v130/chen21a/chen21a.pdf"
     selected: n
   
   - title: "Decentralized Policy Gradient Descent Ascent For Safe Multi-Agent Reinforcement Learning."
     authors: "S. Lu, K. Zhang, <b>T. Chen</b>, T. Basar, and L. Horesh."
     venue: "Proc. of AAAI Conf. on Artificial Intelligence <b>(AAAI)</b>, Virtual, February 2-9, 2021."
-    paper_pdf: ""
+    paper_pdf: "https://chentianyi1991.github.io/aaai.pdf"
     selected: n
   
   - title: "Hybrid Federated Learning: Algorithms and Implementation."
     authors: "X. Zhang, W. Yin, M. Hong, and <b>T. Chen</b>."
     venue: "NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning, December 12, 2020."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2012.12420"
     selected: n
   
   - title: "VAFL: a Method of Vertical Asynchronous Federated Learning."
     authors: "<b>T. Chen</b>, X. Jin, Y. Sun, and W. Yin."
     venue: "Proc. of ICML Workshop on Federated Learning for User Privacy and Data Confidentiality, July 17-18, 2020."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2007.06081"
     selected: n
   
   - title: "Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients."
     authors: "J. Sun*, <b>T. Chen*</b>, G. Giannakis, and Z. Yang. (*equal contribution)"
     venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, Vancouver, Canada, December 8-14, 2019."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/1909.07588"
     selected: n
   
   - title: "Bandit Online Learning with Unknown Delays."
     authors: "B. Li, <b>T. Chen</b>, and G. B. Giannakis."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Naha, Japan, April 16-18, 2019."
-    paper_pdf: ""
+    paper_pdf: "http://proceedings.mlr.press/v89/li19d/li19d.pdf"
     selected: n
   
   - title: "RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets."
     authors: "L. Li, W. Xu, <b>T. Chen</b>, G. B. Giannakis, and Q. Ling."
     venue: "Proc. of AAAI Conf. on Artificial Intelligence <b>(AAAI)</b>, Honolulu, USA, January 27 - February 1, 2019."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/1811.03761"
     selected: n
 
   - title: "Online Ensemble Multi-kernel Learning Adaptive to Non-stationary and Adversarial Environments."
     authors: "Y. Shen, <b>T. Chen</b>, and G. B. Giannakis."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Lanzarote, Canary Islands, April 9 - 11, 2018."
-    paper_pdf: ""
+    paper_pdf: "http://proceedings.mlr.press/v84/shen18a/shen18a.pdf"
     selected: n
   
   - title: "Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
     authors: "X. Cui, AFM Saif, S. Lu, L. Chen, <b>T. Chen</b>, B. Kingsbury, and G. Saon."
     venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing <b>(TASLP)</b>, December 2024."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2412.08548"
     selected: n
   
   - title: "A Bilevel Optimization Method for Inverse Mean-Field Games."
     authors: "J. Yu, Q. Xiao, <b>T. Chen</b>, and R. Lai."
     venue: "Inverse Problems, September 2024."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2401.05539"
     selected: n
   
   - title: "Lazy Queries Can Reduce Variance in Zeroth-order Optimization."
@@ -240,19 +240,19 @@ papers:
   - title: "Solving Stochastic Compositional Optimization Is Nearly As Easy As Solving Stochastic Optimization."
     authors: "<b>T. Chen</b>, Y. Sun, and W. Yin."
     venue: "IEEE Transactions on Signal Processing <b>(TSP)</b>, vol. 69, pp. 4937 - 4948, June 2021."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2008.10847"
     selected: n
   
   - title: "Adaptive Temporal Difference Learning with Linear Function Approximation."
     authors: "T. Sun, H. Shen, <b>T. Chen</b>, and D. Li."
     venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence <b>(TPAMI)</b>, to appear, 2021."
-    paper_pdf: ""
+    paper_pdf: "https://arxiv.org/pdf/2002.08537"
     selected: n
   
   - title: "Communication-Adaptive Stochastic Gradient Methods for Distributed Learning."
     authors: "<b>T. Chen</b>, Y. Sun, and W. Yin."
     venue: "IEEE Transactions on Signal Processing <b>(TSP)</b>, vol. 69, pp. 4637 - 4651, July 2021."
-    paper_pdf: ""
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497717"
     selected: n
   
   - title: "Byzantine-Resilient Decentralized TD Learning with Linear Function Approximation."
@@ -270,7 +270,7 @@ papers:
   - title: "Communication-Efficient Policy Gradient Methods for Distributed Reinforcement Learning."
     authors: "<b>T. Chen</b>, K. Zhang, G. Giannakis, and T. Basar."
     venue: "IEEE Transactions on Control of Network Systems <b>(TCNS)</b>, 2021."
-    paper_pdf: ""
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424975"
     selected: n
   
   - title: "Lazily Quantized Gradient Innovation for Communication-Efficient Federated Learning."
