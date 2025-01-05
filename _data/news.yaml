@@ -250,3 +250,68 @@ news_items:
     link: "https://news.rpi.edu/content/2021/06/22/intelligence-sharing-tools-will-enable-smarter-devices"
     date: "May 2021"
     selected: n
+
+  - item: "Our paper was accepted in <b>IEEE Transactions on Control of Network systems</b>; see recent paper."
+    link: "/index.html#publications"
+    date: "Apr 2021"
+    selected: n
+
+  - item: "Our papers were accepted in <b>ICASSP 2021</b> on meta learning and reinforcement learning; see recent papers."
+    link: "/index.html#publications"
+    date: "Jan 2021"
+    selected: n
+
+  - item: "Our paper was accepted in <b>AISTATS 2021</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Jan 2021"
+    selected: n
+
+  - item: "My Ph.D dissertation was recognized as the inaugural <b>IEEE SPS Best PhD Dissertation Award</b>: Efficient Methods for Distributed Machine Learning and Resource Management in IoT. "
+    link: "https://ece.umn.edu/alumnus-tianyi-chen-receives-ieee-sps-best-dissertation-award/"
+    date: "Jan 2021"
+    selected: n
+
+  - item: "Our paper was accepted in <b>AAAI 2021</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Dec 2020"
+    selected: n
+
+  - item: "Our paper was recognized as the <b>Best Student Paper Award</b> at <b>NeurIPS 2020 workshop</b> on Federated Learning: <b>Hybrid Federated Learning: Algorithms and Implementation</b>."
+    link: "https://ww3.math.ucla.edu/professor-yin-and-team-wins-best-student-paper-award-on-scalability-privacy-and-security-in-federated-learning/"
+    date: "Dec 2020"
+    selected: n
+
+  - item: "Our paper was accepted in <b>IEEE Trans on Pattern Analysis and Machine Intelligence</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Dec 2020"
+    selected: n
+
+  - item: "New paper on Byzantine-robust federated learning has been accepted in <b>IEEE Transactions on Signal Processing</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "May 2020"
+    selected: n
+
+  - item: "I am organizing the special session <b>Reinforcement learning for communication systems</b> at <b>Asilomar 2020</b>."
+    link: "https://www2.securecms.com/Asilomar2020/Papers/PublicSessionIndex3.asp?Sessionid=1005"
+    date: "Mar 2020"
+    selected: n
+
+  - item: "Presented our work on Lazily Aggregated Quantized Gradients at <b>NeurIPS 2019</b>."
+    link: "https://www.dropbox.com/s/hliklys5xjyzspi/NeurIPS_Sunposter.pdf?dl=0"
+    date: "Dec 2019"
+    selected: n
+
+  - item: "Our paper has been accepted in <b>IEEE Transactions on Signal Processing</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Oct 2019"
+    selected: n
+
+  - item: "Our paper was accepted at <b>NeurIPS 2019</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Sept 2019"
+    selected: n
+
+  - item: "I am excited to join Department of Electrical, Computer, and Systems Engineering at <b>Rensselaer Polytechnic Institute</b>."
+    link: "http://www.rpi.edu/"
+    date: "Aug 2019"
+    selected: n
