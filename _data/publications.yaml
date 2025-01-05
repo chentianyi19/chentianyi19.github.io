@@ -131,7 +131,7 @@ papers:
   
   - title: "A Single-Timescale Analysis For Stochastic Approximation With Multiple Coupled Sequences."
     authors: "H. Shen and <b>T. Chen</b>."
-    venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)<b>, New Orleans, LA, November 28 - December 9, 2022. <b>(Oral presentation, Top 1.5% of all submitted papers)</b>"
+    venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, New Orleans, LA, November 28 - December 9, 2022. <b>(Oral presentation, Top 1.5% of all submitted papers)</b>"
     paper_pdf: ""
     selected: n
   
