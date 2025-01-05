@@ -345,6 +345,127 @@ papers:
     paper_pdf: ""
     selected: n
 
+  - title: "Robust Workload and Energy Management for Sustainable Data Centers."
+    authors: "<b>T. Chen</b>, Y. Zhang, X. Wang, and G. B. Giannakis."
+    venue: "IEEE J. on Selected Areas in Communications <b>(JSAC)</b>, vol. 34, no. 3, pp. 651-654, March 2016."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Cooling-Aware Energy and Workload Management in Data Centers via Stochastic Optimization."
+    authors: "<b>T. Chen</b>, X. Wang, and G. B. Giannakis."
+    venue: "IEEE J. on Special Topics in Signal Processing <b>(JSTSP)</b>, vol. 10, no. 2, pp. 402-405, March 2016."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Optimal Scheduling for Wireless On-Demand Data Packet Delivery to High-Speed Trains."
+    authors: "<b>T. Chen</b>, H. Shan, and X. Wang."
+    venue: "IEEE Transactions on Vehicular Technology <b>(TVT)</b>, vol. 64, no. 9, pp. 4101-4112, September 2015."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Large Language Models for Wireless Symbol Detection via In-Context Learning."
+    authors: "M. Abbas, K. Kar, and <b>T. Chen</b>."
+    venue: "Proc. of IEEE Global Comm. Conf. <b>(Globecom)</b>, Cape Town, South Africa, December 6 - 10, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Transferable Learning of GCN Sampling Graph Data Clusters from Different Power Systems."
+    authors: "T. Wu, A. Scaglione, D. Arnold, and <b>T. Chen</b>."
+    venue: "Proc. of Annual Allerton Conf. Communication, Control, and Computing <b>(Allerton)</b>, Urbana, IL, September 25 - 27, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization."
+    authors: "AFM Saif, L. Chen, X. Cui, S. Lu, B. Kingsbury, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. of the International Speech Communication Association <b>(Interspeech)</b>, Kos Island, Greece, September 1 - 5, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
+    authors: "AFM Saif, X. Cui, H. Shen, S. Lu, B. Kingsbury, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Seoul, Korea, April 14 - 19, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Variance Reduction Can Improve Trade-Off In Multi-Objective Learning."
+    authors: "H. Fernando, L. Chen, S. Lu, P.-Y. Chen, M. Liu, S. Chaudhury, K. Murugesan, G. Liu, M. Wang, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Seoul, Korea, April 14 - 19, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Method for Bilevel Optimization With Convex Lower-Level Problems."
+    authors: "H. Shen, S. Paternain, G. Liu, R. Kompella, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Seoul, Korea, April 14 - 19, 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Method for Bilevel Optimization with Convex Lower-Level Problems."
+    authors: "H. Shen, S. Paternain, and <b>T. Chen</b>."
+    venue: "Proc. of Asilomar Conf. on Signals, Systems, & Computers, Pacific Grove, October 29 - November 1, 2023."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Nested Ensemble Method to Bilevel Machine Learning."
+    authors: "L. Chen, M. Abbas, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Rhodes Island, Greece, June 4 - 10, 2023."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Understanding Benign Overfitting in Personalized Federated Learning."
+    authors: "L. Chen and <b>T. Chen</b>."
+    venue: "Proc. of European Signal Processing Conf. <b>(EUSIPCO)</b>, Belgrade, Serbia, August 29 - September 2, 2022."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Federated Multi-Armed Bandit Via Uncoordinated Exploration."
+    authors: "Z. Yan, Q. Xiao, <b>T. Chen</b>, and A. Tajer."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Singapore, May 23 - 27, 2022."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Federated Offline Policy Evaluation Over Distributed Batch Datasets."
+    authors: "H. Shen, X. Li, S. Lu, and <b>T. Chen</b>."
+    venue: "Proc. of Asilomar Conf. on Signals, Systems, & Computers, Virtual, October 31 - November 3, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Stochastic Compositional Optimization Method with Applications to Meta Learning."
+    authors: "Y. Sun, <b>T. Chen</b>, and W. Yin."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, June 6 - 11, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Byzantine-Resilient Decentralized TD Learning with Linear Function Approximation."
+    authors: "Z. Wu, H. Shen, <b>T. Chen</b>, and Q. Ling."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, June 6 - 11, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Combinatorial Bandit Approach to UAV-Aided Edge Computing."
+    authors: "B. Wu, <b>T. Chen</b>, and X. Wang."
+    venue: "Proc. of Asilomar Conf. on Signals, Systems, & Computers, Pacific Grove, CA, November 1 - 5, 2020."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "An MAB Approach for MEC-Centric Task-Offloading Control in Multi-RAT HetNets."
+    authors: "B. Wu, <b>T. Chen</b>, and X. Wang."
+    venue: "Proc. of International Conference on Communications <b>(ICC)</b>, Virtual, June 7 - 11, 2020."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Resilient to Byzantine Attacks Finite-Sum Optimization over Networks."
+    authors: "Z. Wu, Q. Ling, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing <b>(ICASSP)</b>, Barcelona, Spain, May 4 - 9, 2020."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Secure Edge Computing in IoT via Online Learning."
+    authors: "B. Li, <b>T. Chen</b>, X. Wang, and G. B. Giannakis."
+    venue: "Proc. of Asilomar Conf. on Signals, Systems, & Computers, Pacific Grove, CA, October 28 - 31, 2018."
+    paper_pdf: ""
+    selected: n
+
+
 
 
   # - title: "Human Atlas: A Tool for Mapping Social Networks"
