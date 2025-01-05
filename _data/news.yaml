@@ -69,7 +69,7 @@ news_items:
     date: "Mar 2024"
     selected: n 
 
-   - item: "I am invited to present our work at the Department of Electrical and Computer Engineering, Rutgers University."
+  - item: "I am invited to present our work at the Department of Electrical and Computer Engineering, Rutgers University."
     link: "https://www.ece.rutgers.edu/"
     date: "Mar 2024"
     selected: n 
@@ -94,4 +94,13 @@ news_items:
     date: "Oct 2023"
     selected: n 
 
+  - item: "Two papers have been accepted to <b>NeurIPS 2023</b>; see recent papers"
+    link: "/index.html#publications"
+    date: "Sep 2023"
+    selected: n 
+
+  - item: "I am invited to present our work on multi-objective learning at a departmental seminar from Department of Industrial and Systems Engineering, Lehigh University."
+    link: "/index.html#publications"
+    date: "Sep 2023"
+    selected: n 
     
