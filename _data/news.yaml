@@ -49,12 +49,12 @@ news_items:
     date: "Aug 2024"
     selected: y
 
-   - item: "Our paper on using the In-Context Learning ability of LLM for wireless symbol detection problems has been accepted to <b>GLOBECOM 2024</b>"
+  - item: "Our paper on using the In-Context Learning ability of LLM for wireless symbol detection problems has been accepted to <b>GLOBECOM 2024</b>"
     link: "https://arxiv.org/pdf/2409.00124"
     date: "Jul 2024"
     selected: y 
 
-   - item: "Two papers have been accepted to <b>ICML 2024</b> and one paper has been accepted to <b>JMLR</b>; see recent papers"
+  - item: "Two papers have been accepted to <b>ICML 2024</b> and one paper has been accepted to <b>JMLR</b>; see recent papers"
     link: "/index.html#publications"
     date: "May 2024"
     selected: n 
