@@ -202,12 +202,12 @@ papers:
     selected: n
 
 
-  - title: "Human Atlas: A Tool for Mapping Social Networks"
-    authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
-    video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
-    selected: n
+  # - title: "Human Atlas: A Tool for Mapping Social Networks"
+  #   authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
+  #   venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
+  #   paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
+  #   video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
+  #   selected: n
 
   # - title: "Topic Modeling in Twitter: Aggregating Tweets by Conversations"
   #   authors: "David Alvarez-Melis<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>"
