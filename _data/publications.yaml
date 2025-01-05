@@ -112,10 +112,10 @@ papers:
     selected: n
 
   - title: "Alternating Implicit Projected SGD and Its Efficient Variants for Equality-Constrained Bilevel Optimization."
-  authors: "Q. Xiao, H. Shen, W. Yin, and <b>T. Chen</b>."
-  venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 25-27, 2023."
-  paper_pdf: ""
-  selected: n
+    authors: "Q. Xiao, H. Shen, W. Yin, and <b>T. Chen</b>."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 25-27, 2023."
+    paper_pdf: ""
+    selected: n
 
   - title: "Distributed Offline Policy Optimization Over Batch Data."
     authors: "H. Shen, S. Lu, X. Cui, and <b>T. Chen</b>."
