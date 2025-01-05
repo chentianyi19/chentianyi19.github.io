@@ -3,15 +3,43 @@ news_items:
   - item: "Our early work back to 2020 on Byzantine-resilient federated learning has been honored with the <b>IEEE Signal Processing Society Young Author Best Paper Award</b>! Thrilled to see my final contribution as a young author receive this recognition"
     date: "Dec 2024"
     link: "https://signalprocessingsociety.org/community-involvement/awards-submit-award-nomination#youngauthor"
+    selected: y
 
   - item: "Our extended study of the ICML 2023 paper on the penalty-based bilevel optimization methods has been accepted to <b>Mathematical Programming</b> Series A (the final version is coming): On Penalty-based Bilevel Gradient Descent Method"
     date: "Dec 2024"
     link: "https://arxiv.org/pdf/2302.05185"
+    selected: y
 
   - item: "I am honored to be invited to <b>Portuguese American Optimization Workshop</b> (PAOW), colocated with MOPTA 2025"
     link: "https://coral.ise.lehigh.edu/paow/"
     date: "Nov 2024"
+    selected: y
 
-  - item: "I am invited to present our work at The FIND Seminar, Cornell University"
+  - item: "I am invited to serve as an Area Chair for AISTATS 2025, ICLR 2025, and ICML 2025."
+    date: "Oct 2024"
+    selected: y
+    
+  - item: "I am invited to present our work at The Foundations of Information, Networks, and Decision Systems <b>(FIND) Seminar</b>, Cornell University"
     link: "https://find.engineering.cornell.edu/seminar/"
     date: "Sep 2024"
+    selected: y
+
+  - item: "Three papers from our group have been accepted to the main conference of <b>NeurIPS 2024</b>"
+    link: "/index.html#publications"
+    date: "Sep 2024"
+    selected: y
+
+  - item: "I am invited to serve as an Associate Editor for IEEE Transactions on Signal Processing."
+    link: "https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/editorial-board"
+    date: "Sep 2024"
+    selected: y
+
+  - item: "I am invited to present our work at The CPCC Seminar, at the University of California, Irvine"
+    link: "https://cpcc.uci.edu/events.php#CPCCSeminarChen"
+    date: "Sep 2024"
+    selected: y
+
+  - item: "I presented a tutorial on the foundation of bilevel learning and its application to LLMs at <b>MLSP 2024</b>, London, UK"
+    link: "https://2024.ieeemlsp.org/toturials/"
+    date: "Sep 2024"
+    selected: y
