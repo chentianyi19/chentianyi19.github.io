@@ -2,6 +2,42 @@
 layout: default
 title: Home
 ---
+
+ <style>
+      /* Style the div container */
+      #member {
+          width: 150px; /* Control the width of the div */
+          padding: 10px; /* Add padding around content */
+          text-align: center; /* Center-align text and image */
+          border: 1px solid #ccc; /* Optional: border for clarity */
+          border-radius: 8px; /* Optional: rounded corners */
+          margin: 10px auto; /* Center div horizontally and add margin */
+      }
+
+      /* Style the image */
+      #member img {
+          width: 100px; /* Set the width of the image */
+          height: 100px; /* Set the height of the image */
+          object-fit: cover; /* Ensure the image fits within the dimensions */
+          border-radius: 50%; /* Optional: make the image circular */
+      }
+
+      /* Style the paragraph */
+      #member p {
+          font-size: 14px; /* Control font size */
+          line-height: 1.5; /* Line spacing */
+          color: #333; /* Text color */
+          margin: 5px 0; /* Add spacing around paragraph */
+      }
+
+      /* Style the name */
+      #member p b {
+          display: block; /* Make bold name on its own line */
+          font-size: 16px; /* Slightly larger font for name */
+          margin-bottom: 5px; /* Add space after the name */
+      }
+  </style>
+
 <!-- ========== BIO ========== -->
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
@@ -147,13 +183,7 @@ title: Home
   <h4>People</h4>
   <p>
 <div id="member-container">
-<div id="member">
-<img src="images/profile.png">
-<p>
-<b>Lorem Ipsum</b></br>
-PI, EE
-</p>
-</div>
+
 <div id="member">
 <img src="images/groups/people/p1.png">
 <p>
