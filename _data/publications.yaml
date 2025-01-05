@@ -465,6 +465,85 @@ papers:
     paper_pdf: ""
     selected: n
 
+  - title: "Aggregating Flexibility of Heterogeneous Energy Resources in Distribution Networks."
+    authors: "<b>T. Chen</b>, N. Li, and G. B. Giannakis."
+    venue: "Proc. of American Control Conference <b>(ACC)</b>, Milwaukee, WI, June 27 - 29, 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Harnessing Bandit Online Learning for Low-Latency Fog Computing."
+    authors: "<b>T. Chen</b> and G. B. Giannakis."
+    venue: "Proc. of Intl. Conf. on Acoust., Speech, and Signal Processing <b>(ICASSP)</b>, Calgary, Canada, April 15 - 20, 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Online Multi-Kernel Learning with Orthogonal Random Features."
+    authors: "Y. Shen, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "Proc. of Intl. Conf. on Acoust., Speech, and Signal Processing <b>(ICASSP)</b>, Calgary, Canada, April 15 - 20, 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Real-Time Energy Management with Improved Cost-Capacity Tradeoff."
+    authors: "B. Li, <b>T. Chen</b>, X. Wang, and G. B. Giannakis."
+    venue: "Proc. of IEEE Global Conf. on Signal and Info. Processing <b>(GlobalSIP)</b>, Montreal, Canada, November 14 - 16, 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Online Learning for 'Thing-Adaptive' Fog Computing in IoT."
+    authors: "<b>T. Chen</b>, Y. Shen, Q. Ling, and G. B. Giannakis."
+    venue: "Proc. of Asilomar Conf. on Signals, Systems, & Computers <b>(Asilomar)</b>, Pacific Grove, CA, October 29 - November 1, 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Online Convex Optimization for Dynamic Network Resource Allocation."
+    authors: "<b>T. Chen</b>, Q. Ling, and G. B. Giannakis."
+    venue: "Proc. of European Signal Processing Conf. <b>(EUSIPCO)</b>, Kos Island, Greece, August 28 - September 3, 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Learn-and-Adapt Network Resource Allocation."
+    authors: "<b>T. Chen</b>, Q. Ling, and G. B. Giannakis."
+    venue: "Proc. of IEEE Signal Processing Advances in Wireless Communications <b>(SPAWC)</b>, Hokkaido, Japan, July 3 - 6, 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Data-Driven Approach to Stochastic Network Optimization."
+    authors: "<b>T. Chen</b>, A. Mokhtari, X. Wang, A. Ribeiro, and G. B. Giannakis."
+    venue: "Proc. of IEEE Global Conf. on Signal and Info. Processing <b>(GlobalSIP)</b>, Washington, DC, December 7 - 9, 2016."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Two-Scale Stochastic Control for Smart-Grid Powered Coordinated Multi-Point Systems."
+    authors: "X. Chen, <b>T. Chen</b>, X. Wang, L. Huang, and G. B. Giannakis."
+    venue: "Proc. of IEEE Global Comm. Conf. <b>(Globecom)</b>, Washington, DC, December 4 - 8, 2016."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Robust Geographical Load Balancing for Sustainable Data Centers."
+    authors: "<b>T. Chen</b>, Y. Zhang, X. Wang, and G. B. Giannakis."
+    venue: "Proc. of Intl. Conf. on Acoust., Speech, and Signal Processing <b>(ICASSP)</b>, Shanghai, China, March 20 - 25, 2016."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Energy and Workload Management for Data Centers in Renewable-Integrated Power Grid."
+    authors: "<b>T. Chen</b>, X. Wang, and G. B. Giannakis."
+    venue: "Proc. of IEEE Global Conf. on Signal and Info. Processing <b>(GlobalSIP)</b>, Orlando, FL, December 14 - 16, 2015."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Dynamic Power Management for Green Coordinated Multipoint Systems."
+    authors: "X. Wang, <b>T. Chen</b>, Y. Zhang, and G. B. Giannakis."
+    venue: "Proc. of IEEE Global Comm. Conf. <b>(Globecom)</b>, San Diego, CA, December 6 - 10, 2015."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Packet Scheduling for On-Demand Data Services to High-Speed Trains over Wireless Links."
+    authors: "<b>T. Chen</b>, H. Shan, and X. Wang."
+    venue: "Proc. of IEEE Global Comm. Conf. <b>(Globecom)</b>, Atlanta, GA, December 9 - 13, 2013."
+    paper_pdf: ""
+    selected: n
+
+
 
 
 
