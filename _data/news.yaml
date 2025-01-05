@@ -150,4 +150,38 @@ news_items:
     link: ""
     date: "Dec 2022"
     selected: n 
-    
+
+  - item: "We are honored to receive the Faculty Research Gifts from <b>Cisco Research</b>."
+    link: "https://research.cisco.com/"
+    date: "Nov 2022"
+    selected: n 
+
+  - item: "We are happy to receive several IBM-RPI AI research projects, part of the <b>IBM AI Horizons Network</b>."
+    link: "http://ibm.biz/AIHorizons"
+    date: "Nov 2022"
+    selected: n 
+
+  - item: "Our monograph with Osvaldo's group on <b>Meta Learning and Applications to Communications</b> is published in <b>Foundations and Trends in Signal Processing</b>."
+    link: "https://arxiv.org/pdf/2210.02515.pdf"
+    date: "Oct 2022"
+    selected: n 
+
+  - item: "We are honored to receive the <b>Amazon Research Award - AWS AI</b>."
+    link: "https://www.amazon.science/research-awards/program-updates/fall-2021-and-winter-2022-amazon-research-awards-recipients-announced"
+    date: "Oct 2022"
+    selected: n 
+
+  - item: "Two papers have been accepted to <b>NeurIPS 2022</b> with one being selected as an <b>oral</b> presentation; see recent papers."
+    link: "/index.html#publications"
+    date: "Sep 2022"
+    selected: n 
+
+  - item: "I am invited to serve as an Area Chair for <b>AISTATS 2023</b>."
+    link: "https://aistats.org/aistats2023/index.html"
+    date: "Sep 2022"
+    selected: n 
+
+  - item: "We have organized a Cross-Community Federated Learning (CrossFL) workshop at <b>MLSys 2022</b>."
+    link: "https://www.youtube.com/watch?v=0mV85uGMpXA"
+    date: "Aug 2022"
+    selected: n 
