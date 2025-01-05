@@ -13,7 +13,7 @@ experiences:
   category: "school"
 
 - place: "University of Illinois at Urbana-Champaign"
-  time: "2018.9-2018.10"
+  time: "2018.9 - 2018.10"
   title: "Visiting Student"
   subtitle: "Tamer Başar Group"
   link: "http://tamerbasar.csl.illinois.edu/"
@@ -30,7 +30,7 @@ experiences:
   time: "2017.7 - 2017.8"
   title: "Visiting Student"
   subtitle: "Na Li Group"
-   link: "https://nali.seas.harvard.edu/" 
+  link: "https://nali.seas.harvard.edu/" 
   category: "work"
 
 - place: "Fudan University"
