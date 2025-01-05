@@ -2,14 +2,6 @@ papers:
 
 ############# Selected Papers ##############
 
-  - title: "Three-Way Trade-Off in Multi-Objective Learning: Optimization, Generalization and Conflict-Avoidance."
-    authors: "Lisha Chen, Heshan Fernando, Yiming Ying, and <b>Tianyi Chen</b>."
-    venue: "<i>Journal of Machine Learning Research</i> <b>(JMLR)</b>, vol 25, pp. 1-53, 2024."
-    paper_pdf: "https://www.jmlr.org/papers/volume25/23-1287/23-1287.pdf"
-    note: "<i>Shorter version in Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
-    code: "https://github.com/heshandevaka/Trade-Off-MOL"
-    selected: y
-
   - title: "On Penalty-based Bilevel Gradient Descent Method."
     authors: "Han Shen, Quan Xiao and <b>Tianyi Chen</b>."
     venue: "<i>Mathematical Programming</i> <b>(MAPR)</b>, to appear, pp. 1-38, 2024."
@@ -24,6 +16,16 @@ papers:
     paper_pdf: "https://openreview.net/pdf?id=5GwbKlBIIf"
     code: ""
     selected: y
+
+  - title: "Three-Way Trade-Off in Multi-Objective Learning: Optimization, Generalization and Conflict-Avoidance."
+    authors: "Lisha Chen, Heshan Fernando, Yiming Ying, and <b>Tianyi Chen</b>."
+    venue: "<i>Journal of Machine Learning Research</i> <b>(JMLR)</b>, vol 25, pp. 1-53, 2024."
+    paper_pdf: "https://www.jmlr.org/papers/volume25/23-1287/23-1287.pdf"
+    note: "<i>Shorter version in Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
+    code: "https://github.com/heshandevaka/Trade-Off-MOL"
+    selected: y
+
+  
 
   - title: "Tighter Analysis of Alternating Stochastic Gradient Method for Stochastic Nested Problems."
     authors: "<b>Tianyi Chen</b>, Yuejiao Sun and Wotao Yin."
