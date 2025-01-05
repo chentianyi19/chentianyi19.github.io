@@ -48,7 +48,8 @@ title: Home
   </ul>
   <div class="tab-content">
     <div class="tab-pane active" id="news-recent">
-  {% for news_item in site.data.news.news_items %}
+  {% assign recent_news = site.data.news.news_items | where: "selected", "y" %}
+  {% for news_item in recent_news %}
   <p>
     <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
   </p>
