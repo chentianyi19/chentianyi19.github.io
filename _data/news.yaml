@@ -90,7 +90,8 @@ news_items:
     selected: n 
 
   - item: "I am invited to serve as an Area Chair for <b>AISTATS 2024</b> and <b>CPAL 2024</b>."
-    link: "http://aistats.org/aistats2024/; https://cpal.cc/"
+    link: "http://aistats.org/aistats2024/"
+    link: " https://cpal.cc/"
     date: "Oct 2023"
     selected: n 
 
