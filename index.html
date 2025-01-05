@@ -20,6 +20,7 @@ title: Home
 </ul>
 </div>
 
+<!-- ========== Prospective Students ========== -->
 <div class="docs-section" id="prospective-students">  
   <h4>Prospective Students</h4>
   <p>
@@ -33,6 +34,15 @@ title: Home
   </p> 
 </div>
 
+<!-- ========== NEWS ========== -->
+<div class="docs-section" id="news">
+  <h4>Recent News</h4>
+  {% for news_item in site.data.news.news_items %}
+  <p>
+    <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
+  </p>
+  {% endfor %}
+  
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
