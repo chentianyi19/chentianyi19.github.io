@@ -208,7 +208,7 @@ papers:
     selected: n
   
   - title: "Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
-    authors: "X. Cui, <b>AFM Saif</b>, S. Lu, L. Chen, <b>T. Chen</b>, B. Kingsbury, and G. Saon."
+    authors: "X. Cui, AFM Saif, S. Lu, L. Chen, <b>T. Chen</b>, B. Kingsbury, and G. Saon."
     venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing <b>(TASLP)</b>, December 2024."
     paper_pdf: ""
     selected: n
