@@ -164,9 +164,15 @@ title: Home
 <!-- ========== PEOPLE ========== -->
 <div class="docs-section" id="people">  
   <h4>People</h4>
-  <p>
-<div id="member-container">
+  
+ <ul class="tab-nav">
+    <li><div class="button active" data-ref="#people-current">Current</div></li>
+    <li><div class="button" data-ref="#people-old">Alumni</div></li>
+  </ul>
 
+<div class="tab-content">
+<div class="tab-pane active" id="people-current">
+<div id="member-container">
 <style>
     .box {
         display: inline-block; /* Make divs inline */
@@ -178,7 +184,6 @@ title: Home
     }
 </style>
 
-  
 <div id="member" style="width: 200px; padding: 10px; text-align: center; border: 1px solid #ccc; border-radius: 8px; margin: 10px auto;">
 <img src="images/groups/people/p1.png" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
 <p>
@@ -193,9 +198,29 @@ Assistant Prof, Statistic
 Assistant Prof, CS
 </p>
 </div>
-
 </div>
+  </div>
+</div>
+
+<div class="tab-content">
+<div class="tab-pane active" id="people-old">
+  <div id="member" style="width: 200px; padding: 10px; text-align: center; border: 1px solid #ccc; border-radius: 8px; margin: 10px auto;">
+<img src="images/groups/people/p1.png" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+<p>
+<b>Quisque Velit Odio</b></br>
+Assistant Prof, ECE
 </p>
+</div>
+<div id="member" style="width: 200px; padding: 10px; text-align: center; border: 1px solid #ccc; border-radius: 8px; margin: 10px auto;">
+<img src="images/groups/people/p2.png" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
+<p>
+<b>Sollicitudin Quis</b></br>
+Assistant Prof, ECE
+</p>
+</div>
+ </div>
+</div>
+  
 </div>
 
 
