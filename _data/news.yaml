@@ -58,3 +58,40 @@ news_items:
     link: "/index.html#publications"
     date: "May 2024"
     selected: n 
+
+  - item: "We presented a tutorial at <b>ICASSP 2024</b> on Learning with Multiple Objectives and Applications to Speech Processing"
+    link: "https://lisha-chen.github.io/www/files/tutorial/aaai2024_tut.pdf"
+    date: "Apr 2024"
+    selected: n 
+
+  - item: "My Ph.D. student Lisha Chen will join the <b>Department of Electrical and Computer Engineering, University of Rochester</b> in 2025 as a <b>tenure-track Assistant Professor!</b>"
+    link: "https://lisha-chen.github.io/"
+    date: "Mar 2024"
+    selected: n 
+
+   - item: "I am invited to present our work at the Department of Electrical and Computer Engineering, Rutgers University."
+    link: "https://www.ece.rutgers.edu/"
+    date: "Mar 2024"
+    selected: n 
+
+  - item: "We presented a tutorial at <b>AAAI 2024</b> on Learning with Multiple Objectives and Applications to Reinforcement Learning"
+    link: "https://aaai.org/aaai-conference/aaai-24-tutorial-and-lab-list/#th08"
+    date: "Feb 2024"
+    selected: n 
+
+  - item: "One paper has been accepted to <b>AISTATS 2024</b>; see recent papers"
+    link: "/index.html#publications"
+    date: "Jan 2024"
+    selected: n 
+
+  - item: "I am invited to present our work at the Department of Electrical and Computer Engineering, Northeastern University."
+    link: "https://ece.northeastern.edu/"
+    date: "Oct 2023"
+    selected: n 
+
+  - item: "I am invited to serve as an Area Chair for <b>AISTATS 2024</b> and <b>CPAL 2024</b>."
+    link: "http://aistats.org/aistats2024/; https://cpal.cc/"
+    date: "Oct 2023"
+    selected: n 
+
+    
