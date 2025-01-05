@@ -95,7 +95,7 @@ news_items:
     date: "Oct 2023"
     selected: n 
 
-  - item: "Two papers have been accepted to <b>NeurIPS 2023</b>; see recent papers"
+  - item: "Two papers have been accepted to <b>NeurIPS 2023</b>; see recent papers."
     link: "/index.html#publications"
     date: "Sep 2023"
     selected: n 
@@ -105,8 +105,49 @@ news_items:
     date: "Sep 2023"
     selected: n 
 
-  - item: "Our paper on lazy query for zeroth-order optimization has been accepted in <b>TSP</b>."
+  - item: "Our paper on lazy query for zeroth-order optimization has been accepted in <b>TSP</b>; see recent papers."
     link: "/index.html#publications"
     date: "Aug 2023"
+    selected: n 
+
+  - item: "I am invited to present our work on bilevel optimization at <b>SIAM Conference on Optimization</b> and <b>MOPTA</b>."
+    link: "https://www.siam.org/conferences/cm/conference/op23"
+    link: "https://coral.ise.lehigh.edu/~mopta/"
+    date: "Jun 2023"
+    selected: n 
+
+  - item: "One paper on the inexact penalization method for bilevel optimization has been accepted in <b>ICML 2023</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Apr 2023"
+    selected: n 
+
+  - item: "Our paper on linear speedup analysis of the popular <b>A3C</b> algorithm in RL has been accepted in <b>TSP</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Apr 2023"
+    selected: n 
+
+  - item: "Our paper on ensemble methods for bilevel learning was accepted in <b>ICASSP 2023</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Feb 2023"
+    selected: n 
+
+  - item: "I am invited to present our work on bilevel optimization for distributed learning at <b>EnCORE workshop</b> at <b>ITA 2023</b>."
+    link: "https://encore.ucsd.edu/encore-ita-2023/"
+    date: "Feb 2023"
+    selected: n 
+
+  - item: "One paper has been selected as an <b>oral</b> paper (notable-top-5%) in <b>ICLR 2023</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Jan 2023"
+    selected: n 
+
+  - item: "Two papers have been accepted to <b>AISTATS 2023</b>; see recent papers."
+    link: "/index.html#publications"
+    date: "Jan 2023"
+    selected: n 
+
+  - item: "With Atlas Wang, we will present a tutorial at <b>ICASSP 2023</b> on Bilevel Optimization and Its Applications to Machine Learning."
+    link: ""
+    date: "Dec 2022"
     selected: n 
     
