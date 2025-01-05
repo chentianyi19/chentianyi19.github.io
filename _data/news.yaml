@@ -101,7 +101,12 @@ news_items:
     selected: n 
 
   - item: "I am invited to present our work on multi-objective learning at a departmental seminar from Department of Industrial and Systems Engineering, Lehigh University."
-    link: "/index.html#publications"
+    link: "https://engineering.lehigh.edu/ise"
     date: "Sep 2023"
+    selected: n 
+
+  - item: "Our paper on lazy query for zeroth-order optimization has been accepted in <b>TSP</b>."
+    link: "/index.html#publications"
+    date: "Aug 2023"
     selected: n 
     
