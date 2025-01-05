@@ -107,67 +107,67 @@ papers:
 
   - title: "Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach."
     authors: "H. Fernando, H. Shen, M. Liu, S. Chaudhury, K. Murugesan, and <b>T. Chen</b>."
-    venue: "Proc. of Intl. Conf. on Learning Representations (ICLR), Kigali, Rwanda, May 1-5, 2023. <b>(Oral presentation)</b>"
+    venue: "Proc. of Intl. Conf. on Learning Representations <b>(ICLR)</b>, Kigali, Rwanda, May 1-5, 2023. <b>(Oral presentation)</b>"
     paper_pdf: "https://arxiv.org/pdf/2210.12624"
     selected: n
 
   - title: "Alternating Implicit Projected SGD and Its Efficient Variants for Equality-Constrained Bilevel Optimization."
     authors: "Q. Xiao, H. Shen, W. Yin, and <b>T. Chen</b>."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 25-27, 2023."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Valencia, Spain, April 25-27, 2023."
     paper_pdf: ""
     selected: n
 
   - title: "Distributed Offline Policy Optimization Over Batch Data."
     authors: "H. Shen, S. Lu, X. Cui, and <b>T. Chen</b>."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Valencia, Spain, April 25-27, 2023."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Valencia, Spain, April 25-27, 2023."
     paper_pdf: ""
     selected: n
 
   - title: "Understanding Benign Overfitting in Meta Learning."
     authors: "L. Chen, S. Lu, and <b>T. Chen</b>."
-    venue: "Proc. of Neural Information Processing Systems (NeurIPS), New Orleans, LA, November 28 - December 9, 2022."
+    venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, New Orleans, LA, November 28 - December 9, 2022."
     paper_pdf: ""
     selected: n
   
   - title: "A Single-Timescale Analysis For Stochastic Approximation With Multiple Coupled Sequences."
     authors: "H. Shen and <b>T. Chen</b>."
-    venue: "Proc. of Neural Information Processing Systems (NeurIPS), New Orleans, LA, November 28 - December 9, 2022. <b>(Oral presentation, Top 1.5% of all submitted papers)</b>"
+    venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)<b>, New Orleans, LA, November 28 - December 9, 2022. <b>(Oral presentation, Top 1.5% of all submitted papers)</b>"
     paper_pdf: ""
     selected: n
   
   - title: "Sharp-MAML: Sharpness-Aware Model-Agnostic Meta Learning."
     authors: "M. Abbas, Q. Xiao, L. Chen, P.-Y. Chen, and <b>T. Chen</b>."
-    venue: "Proc. of Intl. Conf. on Machine Learning (ICML), Baltimore, MD, July 17-23, 2022."
+    venue: "Proc. of Intl. Conf. on Machine Learning <b>(ICML)</b>, Baltimore, MD, July 17-23, 2022."
     paper_pdf: ""
     selected: n
   
   - title: "Learning to Coordinate in Multi-Agent Systems: A Coordinated Actor-Critic Algorithm and Finite-Time Guarantees."
     authors: "S. Zeng, <b>T. Chen</b>, A. Garcia, and M. Hong."
-    venue: "Proc. of Learning for Dynamics and Control Conference (L4DC), Palo Alto, CA, June 2022."
+    venue: "Proc. of Learning for Dynamics and Control Conference <b>(L4DC)</b>, Palo Alto, CA, June 2022."
     paper_pdf: ""
     selected: n
   
   - title: "Is Bayesian Model-Agnostic Meta Learning Better than Model-Agnostic Meta Learning, Provably."
     authors: "L. Chen and <b>T. Chen</b>."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Virtual, March 28-30, 2022."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, March 28-30, 2022."
     paper_pdf: ""
     selected: n
   
   - title: "A Single-Timescale Stochastic Optimization Method for Stochastic Bilevel Problems."
     authors: "<b>T. Chen</b>, Y. Sun, Q. Xiao, and W. Yin."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Virtual, March 28-30, 2022. <b>(Oral presentation, Top 2% of all submitted papers)</b>"
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, March 28-30, 2022. <b>(Oral presentation, Top 2% of all submitted papers)</b>"
     paper_pdf: ""
     selected: n
   
   - title: "CADA: Communication-Adaptive Distributed Adam."
     authors: "<b>T. Chen</b>, Z. Guo, Y. Sun, and W. Yin."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Virtual, April 16-18, 2021."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Virtual, April 16-18, 2021."
     paper_pdf: ""
     selected: n
   
   - title: "Decentralized Policy Gradient Descent Ascent For Safe Multi-Agent Reinforcement Learning."
     authors: "S. Lu, K. Zhang, <b>T. Chen</b>, T. Basar, and L. Horesh."
-    venue: "Proc. of AAAI Conf. on Artificial Intelligence (AAAI), Virtual, February 2-9, 2021."
+    venue: "Proc. of AAAI Conf. on Artificial Intelligence <b>(AAAI)</b>, Virtual, February 2-9, 2021."
     paper_pdf: ""
     selected: n
   
@@ -184,20 +184,20 @@ papers:
     selected: n
   
   - title: "Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients."
-    authors: "J. Sun*, <b>T. Chen*</b>, G. Giannakis, and Z. Yang. (equal contribution)"
-    venue: "Proc. of Neural Information Processing Systems (NeurIPS), Vancouver, Canada, December 8-14, 2019."
+    authors: "J. Sun*, <b>T. Chen*</b>, G. Giannakis, and Z. Yang. (*equal contribution)"
+    venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, Vancouver, Canada, December 8-14, 2019."
     paper_pdf: ""
     selected: n
   
   - title: "Bandit Online Learning with Unknown Delays."
     authors: "B. Li, <b>T. Chen</b>, and G. B. Giannakis."
-    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Naha, Japan, April 16-18, 2019."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Naha, Japan, April 16-18, 2019."
     paper_pdf: ""
     selected: n
   
   - title: "RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets."
     authors: "L. Li, W. Xu, <b>T. Chen</b>, G. B. Giannakis, and Q. Ling."
-    venue: "Proc. of AAAI Conf. on Artificial Intelligence (AAAI), Honolulu, USA, January 27 - February 1, 2019."
+    venue: "Proc. of AAAI Conf. on Artificial Intelligence <b>(AAAI)</b>, Honolulu, USA, January 27 - February 1, 2019."
     paper_pdf: ""
     selected: n
 
