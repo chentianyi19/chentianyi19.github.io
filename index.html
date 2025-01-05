@@ -37,30 +37,12 @@ title: Home
 
 <!-- ========== NEWS ========== -->
 <div class="docs-section" id="news">
-  <h4> News</h4>
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#news-recent">Recent News</div></li>
-    <li><div class="button" data-ref="#news-all">All News</div></li>
-  </ul>
-   <div class="tab-content">
-    <div class="tab-pane active" id="news-recent">
+  <h4>Recent News</h4>
   {% for news_item in site.data.news.news_items %}
   <p>
     <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
   </p>
   {% endfor %}
-    </div>
-  </div>    
-
-     <div class="tab-content">
-    <div class="tab-pane active" id="news-all">
-  {% for news_item in site.data.news.news_items %}
-  <p>
-    <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
-  </p>
-  {% endfor %}
-    </div>
-  </div>    
   
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
@@ -161,20 +143,29 @@ title: Home
   </div>
 </div>
 
-<!-- ========== PEOPLE ========== -->
+
 <div class="docs-section" id="people">  
   <h4>People</h4>
   <p>
 <div id="member-container">
-
-<div id="member" style="width: 200px; padding: 10px; text-align: center; border: 1px solid #ccc; border-radius: 8px; margin: 10px auto;">
+  <style>
+    .box {
+        display: inline-block; /* Make divs inline */
+        width: 20%; /* Set the width */
+        padding: 10px;
+        border: 1px solid #ccc;
+        text-align: center;
+        vertical-align: top; /* Align them properly */
+    }
+</style>
+<div id="member" class="box" style="width: 200px; padding: 10px; text-align: center; margin: 10px auto;">
 <img src="images/groups/people/p1.png" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
 <p>
 <b>Quisque Velit Odio</b></br>
 Assistant Prof, Statistic
 </p>
 </div>
-<div id="member" style="width: 200px; padding: 10px; text-align: center; border: 1px solid #ccc; border-radius: 8px; margin: 10px auto;">
+<div id="member" class="box" style="width: 200px; padding: 10px; text-align: center; margin: 10px auto;">
 <img src="images/groups/people/p2.png" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
 <p>
 <b>Sollicitudin Quis</b></br>
