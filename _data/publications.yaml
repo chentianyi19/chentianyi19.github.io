@@ -201,6 +201,151 @@ papers:
     paper_pdf: ""
     selected: n
 
+  - title: "Online Ensemble Multi-kernel Learning Adaptive to Non-stationary and Adversarial Environments."
+    authors: "Y. Shen, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), Lanzarote, Canary Islands, April 9 - 11, 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
+    authors: "X. Cui, <b>AFM Saif</b>, S. Lu, L. Chen, <b>T. Chen</b>, B. Kingsbury, and G. Saon."
+    venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), December 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "A Bilevel Optimization Method for Inverse Mean-Field Games."
+    authors: "J. Yu, Q. Xiao, <b>T. Chen</b>, and R. Lai."
+    venue: "Inverse Problems, September 2024."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Lazy Queries Can Reduce Variance in Zeroth-order Optimization."
+    authors: "Q. Xiao, Q. Ling, and <b>T. Chen</b>."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 71, December 2023."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Byzantine-Resilient Decentralized Stochastic Optimization With Robust Aggregation Rules."
+    authors: "Z. Wu, Q. Ling, and <b>T. Chen</b>."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 71, pp. 3179 - 3195, August 2023."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Towards Understanding Asynchronous Advantage Actor-Critic: Convergence and Linear Speedup."
+    authors: "H. Shen, K. Zhang, M. Hong, and <b>T. Chen</b>."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 71, pp. 2579 - 2594, May 2023."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Solving Stochastic Compositional Optimization Is Nearly As Easy As Solving Stochastic Optimization."
+    authors: "<b>T. Chen</b>, Y. Sun, and W. Yin."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 69, pp. 4937 - 4948, June 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Adaptive Temporal Difference Learning with Linear Function Approximation."
+    authors: "T. Sun, H. Shen, <b>T. Chen</b>, and D. Li."
+    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), to appear, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Communication-Adaptive Stochastic Gradient Methods for Distributed Learning."
+    authors: "<b>T. Chen</b>, Y. Sun, and W. Yin."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 69, pp. 4637 - 4651, July 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Byzantine-Resilient Decentralized TD Learning with Linear Function Approximation."
+    authors: "Z. Wu, H. Shen, <b>T. Chen</b>, and Q. Ling."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 69, pp. 3839 - 3853, June 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Multi-Agent Multi-Armed Bandit Learning for Online Management of Edge-Assisted Computing."
+    authors: "B. Wu, <b>T. Chen</b>, W. Ni, and X. Wang."
+    venue: "IEEE Transactions on Communications (TCOM), to appear, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Communication-Efficient Policy Gradient Methods for Distributed Reinforcement Learning."
+    authors: "<b>T. Chen</b>, K. Zhang, G. Giannakis, and T. Basar."
+    venue: "IEEE Transactions on Control of Network Systems (TCNS), 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Lazily Quantized Gradient Innovation for Communication-Efficient Federated Learning."
+    authors: "J. Sun, <b>T. Chen</b>, G. Giannakis, and Z. Yang."
+    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), to appear, 2021."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks."
+    authors: "Z. Wu, Q. Ling, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 68, pp. 4583 - 4596, July 2020."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Secure Mobile Edge Computing in IoT via Collaborative Online Learning."
+    authors: "B. Li, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 67, no. 23, pp. 5922 - 5935, December 2019."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Learning and Management for Internet-of-Things: Accounting for Adaptivity and Scalability."
+    authors: "<b>T. Chen</b>, S. Barbarossa, X. Wang, G. B. Giannakis, and Z.-L. Zhang."
+    venue: "Proceedings of the IEEE (PIEEE), vol. 107, no. 4, pp. 778 - 796, April 2019."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Random Feature-based Online Multi-Kernel Learning in Environments with Unknown Dynamics."
+    authors: "Y. Shen, <b>T. Chen</b>, and G. B. Giannakis."
+    venue: "Journal of Machine Learning Research (JMLR), vol. 20, no. 22, pp. 1 - 36, February 2019."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Real-Time Optimal Energy Management with Reduced Battery Capacity Requirements."
+    authors: "B. Li, <b>T. Chen</b>, X. Wang, and G. B. Giannakis."
+    venue: "IEEE Transactions on Smart Grid (TSG), vol. 10, no. 2, pp. 1928 - 1938, February 2019."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Bandit Convex Optimization for Scalable and Dynamic IoT Management."
+    authors: "<b>T. Chen</b> and G. B. Giannakis."
+    venue: "IEEE Internet of Things J. (JIOT), vol. 6, no. 1, pp. 1276 - 1286, February 2019."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Learn-and-Adapt Stochastic Dual Gradients for Network Resource Allocation."
+    authors: "<b>T. Chen</b>, Q. Ling, and G. B. Giannakis."
+    venue: "IEEE Transactions on Control of Network Systems (TCNS), vol. 5, no. 4, pp. 1941 - 1951, December 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Heterogeneous Online Learning for 'Thing-Adaptive' Fog Computing in IoT."
+    authors: "<b>T. Chen</b>, Q. Ling, Y. Shen, and G. B. Giannakis."
+    venue: "IEEE Internet of Things J. (JIOT), vol. 5, no. 6, pp. 4328 - 4341, December 2018."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "An Online Convex Optimization Approach to Proactive Network Resource Allocation."
+    authors: "<b>T. Chen</b>, Q. Ling, and G. B. Giannakis."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 65, no. 24, pp. 6350 - 6364, December 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Stochastic Averaging for Constrained Optimization with Application to Online Resource Allocation."
+    authors: "<b>T. Chen</b>, A. Mokhtari, X. Wang, A. Ribeiro, and G. B. Giannakis."
+    venue: "IEEE Transactions on Signal Processing (TSP), vol. 65, no. 12, pp. 3078 - 3093, June 2017."
+    paper_pdf: ""
+    selected: n
+  
+  - title: "Dynamic Resource Allocation for Smart-Grid Powered MIMO Downlink Transmissions."
+    authors: "X. Wang, <b>T. Chen</b>, X. Chen, X. Zhou, and G. B. Giannakis."
+    venue: "IEEE J. on Selected Areas in Communications (JSAC), vol. 34, no. 12, pp. 3354 - 3365, December 2016."
+    paper_pdf: ""
+    selected: n
+
+
 
   # - title: "Human Atlas: A Tool for Mapping Social Networks"
   #   authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
