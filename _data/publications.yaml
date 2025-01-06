@@ -1,16 +1,6 @@
 papers:
 
 ############# Selected Papers ##############
-
-  - title: "Three-Way Trade-Off in Multi-Objective Learning: Optimization, Generalization and Conflict-Avoidance."
-    authors: "Lisha Chen, Heshan Fernando, Yiming Ying, and <b>Tianyi Chen</b>."
-    venue: "<i>Journal of Machine Learning Research</i> <b>(JMLR)</b>, vol 25, pp. 1-53, 2024."
-    paper_pdf: "https://www.jmlr.org/papers/volume25/23-1287/23-1287.pdf"
-    note: "<i>Shorter version in Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
-    code: "https://github.com/heshandevaka/Trade-Off-MOL"
-    selected: y
-    recent: y
-    
   - title: "On Penalty-based Bilevel Gradient Descent Method."
     authors: "Han Shen, Quan Xiao and <b>Tianyi Chen</b>."
     venue: "<i>Mathematical Programming</i> <b>(MAPR)</b>, to appear, pp. 1-38, 2024."
@@ -20,11 +10,21 @@ papers:
     selected: y
     recent: y
     
+  - title: "Three-Way Trade-Off in Multi-Objective Learning: Optimization, Generalization and Conflict-Avoidance."
+    authors: "Lisha Chen, Heshan Fernando, Yiming Ying, and <b>Tianyi Chen</b>."
+    venue: "<i>Journal of Machine Learning Research</i> <b>(JMLR)</b>, vol 25, pp. 1-53, 2024."
+    paper_pdf: "https://www.jmlr.org/papers/volume25/23-1287/23-1287.pdf"
+    note: "<i>Shorter version in Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
+    code: "https://github.com/heshandevaka/Trade-Off-MOL"
+    poster: "https://www.dropbox.com/scl/fi/gucjt422nwxfluejd5q23/poster_MOL_tradeoff-A1.pdf?rlkey=jxkrco28ronb74i1q4qcunrx1&dl=0"
+    selected: y
+    recent: y
+    
   - title: "Towards Exact Gradient-based Training on Analog In-memory Computing."
     authors: "Zhaoxian Wu, Tayfun Gokmen, Malte J. Rasch and <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
     paper_pdf: "https://openreview.net/pdf?id=5GwbKlBIIf"
-    code: ""
+    poster: "https://neurips.cc/media/PosterPDFs/NeurIPS%202024/96597.png?t=1731713210.0773137"
     selected: y
     recent: y
     
@@ -32,21 +32,20 @@ papers:
     authors: "<b>Tianyi Chen</b>, Yuejiao Sun and Wotao Yin."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Virtual, December 6-14, 2021. <b>(Spotlight)</b>."
     paper_pdf: "https://arxiv.org/pdf/2106.13781.pdf"
-    code: ""
+    poster: "https://www.dropbox.com/scl/fi/h4vym7xltl1kskfpr5bg2/alset_poster.pdf?rlkey=64ncl36s3f2df3eurgtok8yxr&dl=0"
     selected: y
 
   - title: "Catastrophic Data Leakage in Vertical Federated Learning."
     authors: "Xiao Jin, Pin-Yu Chen, Chia-Yi Hsu, Chia-Mu Yu, and <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Virtual, December 6-14, 2021."
     paper_pdf: "https://arxiv.org/pdf/2110.15122.pdf"
-    code: ""
+    code: "https://github.com/DeRafael/CAFE"
     selected: y    
 
   - title: "LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning."
     authors: "<b>Tianyi Chen</b>, Georgios B. Giannakis, Tao Sun and Wotao Yin."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Virtual, December 6-14, 2021."
     paper_pdf: "http://papers.nips.cc/paper/7752-lag-lazily-aggregated-gradient-for-communication-efficient-distributed-learning.pdf"
-    talk: "https://www.videoken.com/embed/-pywxDhaBzc?tocitem=8"
     poster: "https://www.dropbox.com/s/m80ytd2kqn4b72p/poster_nips.pdf?dl=0"
     code: "https://github.com/chentianyi1991/LAG-code"
     selected: y
@@ -69,6 +68,7 @@ papers:
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
     paper_pdf: "https://arxiv.org/pdf/2406.10148"
     code: "https://github.com/Liuyuan999/Penalty_Based_Lagrangian_Bilevel"
+    poster: "https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93267.png?t=1731605278.4146042"
     selected: n
     recent: y  
 
