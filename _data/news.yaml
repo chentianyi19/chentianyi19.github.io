@@ -25,7 +25,7 @@ news_items:
     date: "Oct 2024"
     selected: y
     
-  - item: "I am invited to present our work at The Foundations of Information, Networks, and Decision Systems <b>(FIND) Seminar</b>, Cornell University"
+  - item: "I am invited to present our work at The Foundations of Information, Networks, and Decision Systems <b>(FIND) Seminar, Cornell University</b>"
     link: "https://find.engineering.cornell.edu/seminar/"
     date: "Sep 2024"
     selected: y
@@ -35,7 +35,7 @@ news_items:
     date: "Sep 2024"
     selected: y
 
-  - item: "I am invited to present our work on the theory of analog in-memory training at The CPCC Seminar, at the University of California, Irvine, and The Engineering Seminar, at King's College London"
+  - item: "I am invited to present our work on the theory of analog in-memory training at The CPCC Seminar, at <b>University of California, Irvine</b>, and The Engineering Seminar, at <b>King's College London</b>"
     link: "https://cpcc.uci.edu/events.php#CPCCSeminarChen"
     date: "Sep 2024"
     selected: y
@@ -43,7 +43,7 @@ news_items:
   - item: "I presented a tutorial on the foundation of bilevel learning and its application to LLMs at <b>MLSP 2024</b>, London, UK"
     link: "https://2024.ieeemlsp.org/toturials/"
     date: "Sep 2024"
-    selected: y
+    selected: n
 
   - item: "We are excited to receive <b>a new collaborative NSF project</b> with UCI on bilevel optimization for graph representation learning"
     link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412486&HistoricalAwards=false"
@@ -54,7 +54,12 @@ news_items:
     link: "https://arxiv.org/pdf/2409.00124"
     date: "Jul 2024"
     selected: y 
-
+  
+  - item: "My Ph.D. student Lisha Chen will join the <b>Department of Electrical and Computer Engineering, University of Rochester</b> in 2025 as a <b>tenure-track Assistant Professor!</b>"
+    link: "https://lisha-chen.github.io/"
+    date: "Jun 2024"
+    selected: y 
+    
   - item: "Two papers have been accepted to <b>ICML 2024</b> and one paper has been accepted to <b>JMLR</b>; see recent papers"
     link: "/index.html#publications"
     date: "May 2024"
@@ -63,11 +68,6 @@ news_items:
   - item: "We presented a tutorial at <b>ICASSP 2024</b> on Learning with Multiple Objectives and Applications to Speech Processing"
     link: "https://lisha-chen.github.io/www/files/tutorial/aaai2024_tut.pdf"
     date: "Apr 2024"
-    selected: n 
-
-  - item: "My Ph.D. student Lisha Chen will join the <b>Department of Electrical and Computer Engineering, University of Rochester</b> in 2025 as a <b>tenure-track Assistant Professor!</b>"
-    link: "https://lisha-chen.github.io/"
-    date: "Mar 2024"
     selected: n 
 
   - item: "I am invited to present our work at the Department of Electrical and Computer Engineering, Rutgers University."
