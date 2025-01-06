@@ -15,7 +15,7 @@ news_items:
     date: "Nov 2024"
     selected: y
 
-  - item: "I am invited to serve as an Area Chair for AISTATS 2025, ICLR 2025, ICML 2025, and the newly founded <b>CPAL 2025</b>"
+  - item: "I serve as an Area Chair for AISTATS 2025, ICLR 2025, ICML 2025, and the newly founded <b>CPAL 2025</b>"
     date: "Oct 2024"
     link: "https://cpal.cc/area_chairs/"
     selected: y
