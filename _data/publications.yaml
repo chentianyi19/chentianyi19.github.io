@@ -9,7 +9,8 @@ papers:
     note: "<i>Shorter version in Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
     code: "https://github.com/heshandevaka/Trade-Off-MOL"
     selected: y
-
+    recent: y
+    
   - title: "On Penalty-based Bilevel Gradient Descent Method."
     authors: "Han Shen, Quan Xiao and <b>Tianyi Chen</b>."
     venue: "<i>Mathematical Programming</i> <b>(MAPR)</b>, to appear, pp. 1-38, 2024."
@@ -17,14 +18,16 @@ papers:
     note: "<i>Shorter version in International Conference on Machine Learning</i> <b>(ICML)</b>, Honolulu, HI, July 22-29, 2023."
     code: "https://github.com/hanshen95/penalized-bilevel-gradient-descent"
     selected: y
-
+    recent: y
+    
   - title: "Towards Exact Gradient-based Training on Analog In-memory Computing."
     authors: "Zhaoxian Wu, Tayfun Gokmen, Malte J. Rasch and <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
     paper_pdf: "https://openreview.net/pdf?id=5GwbKlBIIf"
     code: ""
     selected: y
-
+    recent: y
+    
   - title: "Tighter Analysis of Alternating Stochastic Gradient Method for Stochastic Nested Problems."
     authors: "<b>Tianyi Chen</b>, Yuejiao Sun and Wotao Yin."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Virtual, December 6-14, 2021. <b>(Spotlight)</b>."
@@ -52,49 +55,30 @@ papers:
 
 ####  year =2024 ##########
 
-  - title: "Enhancing In-context Learning via Linear Probe Calibration."
-    authors: "Momin Abbas, Yi Zhou, Parikshit Ram, Nathalie Baracaldo, Horst Samulowitz, Theodoros Salonidis, <b>Tianyi Chen</b>."
-    venue: "<i>Proc. of Intl. Conf. on Artificial Intelligence and Statistics</i> <b>(AISTATS)</b>, Valencia, Spain, May 2-4, 2024."
-    paper_pdf: "https://arxiv.org/pdf/2401.12406"
-    # code: "https://doi.org/10.7910/DVN/HDT2RN"
-    # data: "https://doi.org/10.7910/DVN/HDT2RN"
-    selected: n
-
-  - title: "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF."
-    authors: "Han Shen, Zhuoran Yang, <b>Tianyi Chen</b>."
-    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
-    paper_pdf: "https://arxiv.org/pdf/2402.06886"
-    # code: "https://github.com/facebookresearch/social-catalysts"
-    selected: n
-
-  - title: "SF-DQN: Provable Knowledge Transfer using Successor Feature for Deep Reinforcement Learning."
-    authors: "Shuai Zhang, Heshan Devaka Fernando, Miao Liu, Keerthiram Murugesan, Songtao Lu, Pin-Yu Chen, <b>Tianyi Chen</b>, Meng Wang."
-    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
-    paper_pdf: "https://arxiv.org/pdf/2405.15920"
-    # code: "https://github.com/sanzeed/balanced_influence_maximization"
-    # data: "https://github.com/sanzeed/balanced_influence_maximization"
-    selected: n
-
   - title: "FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning."
     authors: "Lisha Chen, AFM Saif, Yanning Shen, <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
     paper_pdf: "https://arxiv.org/pdf/2412.01773"
-    code: ""
+    code: "https://github.com/lisha-chen/FERERO/"
     # data: "https://github.com/msaveski/twitter_perspective_taking"
     selected: n
+    recent: y
 
   - title: "A Primal-Dual-Assisted Penalty Approach to Bilevel Optimization with Coupled Constraints."
     authors: "Liuyuan Jiang, Quan Xiao, Victor M Tenorio, Fernando Real-Rojas, Antonio G Marques, <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, Vancouver, Canada, December 9-15, 2024."
     paper_pdf: "https://arxiv.org/pdf/2406.10148"
-    code: ""
+    code: "https://github.com/Liuyuan999/Penalty_Based_Lagrangian_Bilevel"
     selected: n
+    recent: y  
 
   - title: "Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
     authors: "X. Cui, AFM Saif, S. Lu, L. Chen, <b>T. Chen</b>, B. Kingsbury, and G. Saon."
     venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing <b>(TASLP)</b>, December 2024."
     paper_pdf: "https://arxiv.org/pdf/2412.08548"
+    code: "https://github.com/afmsaif/Joint-self-supervised-and-supervised-training-for-speech-models"
     selected: n
+    recent: y  
   
   - title: "A Bilevel Optimization Method for Inverse Mean-Field Games."
     authors: "J. Yu, Q. Xiao, <b>T. Chen</b>, and R. Lai."
@@ -107,18 +91,48 @@ papers:
     venue: "Proc. of IEEE Global Comm. Conf. <b>(Globecom)</b>, Cape Town, South Africa, December 6 - 10, 2024."
     paper_pdf: "https://arxiv.org/pdf/2409.00124"
     selected: n
+    recent: y  
   
   - title: "Transferable Learning of GCN Sampling Graph Data Clusters from Different Power Systems."
     authors: "T. Wu, A. Scaglione, D. Arnold, and <b>T. Chen</b>."
     venue: "Proc. of Annual Allerton Conf. Communication, Control, and Computing <b>(Allerton)</b>, Urbana, IL, September 25 - 27, 2024."
     paper_pdf: "https://easychair.org/publications/preprint/KFPl"
     selected: n
+
+ 
+  - title: "Enhancing In-context Learning via Linear Probe Calibration."
+    authors: "Momin Abbas, Yi Zhou, Parikshit Ram, Nathalie Baracaldo, Horst Samulowitz, Theodoros Salonidis, <b>Tianyi Chen</b>."
+    venue: "<i>Proc. of Intl. Conf. on Artificial Intelligence and Statistics</i> <b>(AISTATS)</b>, Valencia, Spain, May 2-4, 2024."
+    paper_pdf: "https://arxiv.org/pdf/2401.12406"
+    # code: "https://doi.org/10.7910/DVN/HDT2RN"
+    # data: "https://doi.org/10.7910/DVN/HDT2RN"
+    selected: n
+    recent: y
+
+  - title: "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF."
+    authors: "Han Shen, Zhuoran Yang, <b>Tianyi Chen</b>."
+    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
+    paper_pdf: "https://arxiv.org/pdf/2402.06886"
+    # code: "https://github.com/facebookresearch/social-catalysts"
+    selected: n
+    recent: y
+
+  - title: "SF-DQN: Provable Knowledge Transfer using Successor Feature for Deep Reinforcement Learning."
+    authors: "Shuai Zhang, Heshan Devaka Fernando, Miao Liu, Keerthiram Murugesan, Songtao Lu, Pin-Yu Chen, <b>Tianyi Chen</b>, Meng Wang."
+    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
+    paper_pdf: "https://arxiv.org/pdf/2405.15920"
+    # code: "https://github.com/sanzeed/balanced_influence_maximization"
+    # data: "https://github.com/sanzeed/balanced_influence_maximization"
+    selected: n
+    recent: y   
   
   - title: "M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization."
     authors: "AFM Saif, L. Chen, X. Cui, S. Lu, B. Kingsbury, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. of the International Speech Communication Association <b>(Interspeech)</b>, Kos Island, Greece, September 1 - 5, 2024."
     paper_pdf: "https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf"
+    code: "https://github.com/afmsaif/M2ASR"
     selected: n
+    recent: y   
   
   - title: "Joint Unsupervised and Supervised Training for Automatic Speech Recognition."
     authors: "AFM Saif, X. Cui, H. Shen, S. Lu, B. Kingsbury, and <b>T. Chen</b>."
@@ -146,13 +160,15 @@ papers:
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
     paper_pdf: "https://arxiv.org/pdf/2305.20057"
     selected: n
+    
 
   - title: "An alternating optimization method for bilevel problems under the Polyak-Łojasiewicz condition."
     authors: "Quan Xiao, Songtao Lu, <b>Tianyi Chen</b>."
     venue: "<i>Proc. of Neural Information Processing Systems</i> <b>(NeurIPS)</b>, New Orleans, LA, December 10-16, 2023."
     paper_pdf: "https://arxiv.org/pdf/2306.02422"
     selected: n
-
+    recent: y
+     
   - title: "On Penalty-based Bilevel Gradient Descent Method."
     authors: "Han Shen, Q. Xiao, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Machine Learning <b>(ICML)</b>, Honolulu, HI, July 22-29, 2023."
@@ -165,7 +181,8 @@ papers:
     venue: "Proc. of Intl. Conf. on Learning Representations <b>(ICLR)</b>, Kigali, Rwanda, May 1-5, 2023. <b>(Oral presentation)</b>"
     paper_pdf: "https://arxiv.org/pdf/2210.12624"
     selected: n
-
+    recent: y  
+   
   - title: "Alternating Implicit Projected SGD and Its Efficient Variants for Equality-Constrained Bilevel Optimization."
     authors: "Q. Xiao, H. Shen, W. Yin, and <b>T. Chen</b>."
     venue: "Proc. of Intl. Conf. on Artificial Intelligence and Statistics <b>(AISTATS)</b>, Valencia, Spain, April 25-27, 2023."
@@ -211,7 +228,7 @@ papers:
 
 ############    year = 2022  ###############
 
-  - title: "Understanding Benign Overfitting in Meta Learning."
+  - title: "Understanding Benign Overfitting in Meta-Learning."
     authors: "L. Chen, S. Lu, and <b>T. Chen</b>."
     venue: "Proc. of Neural Information Processing Systems <b>(NeurIPS)</b>, New Orleans, LA, November 28 - December 9, 2022."
     paper_pdf: "https://arxiv.org/pdf/2206.13482"
