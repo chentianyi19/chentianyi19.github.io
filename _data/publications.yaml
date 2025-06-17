@@ -58,6 +58,20 @@ papers:
 #########################  other papers/Recent #############################
 ####  year =2025 ##########
 
+  - title: "A First-order Generative Bilevel Optimization Framework for Diffusion Models."
+    authors: "Quan Xiao, Hui Yuan, AFM Saif, Gaowen Liu, Ramana Kompella, Mengdi Wang, Tianyi Chen."
+    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vancouver, Canada, July 13-19, 2025."
+    paper_pdf: "https://arxiv.org/pdf/2502.08808"
+    selected: n
+    recent: y
+
+  - title: "Efficient First-Order Optimization on the Pareto Set for Multi-Objective Learning under Preference Guidance."
+    authors: "Lisha Chen, Quan Xiao, Ellen Hidemi Fukuda, Xinyi Chen, Kun Yuan, Tianyi Chen."
+    venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vancouver, Canada, July 13-19, 2025."
+    paper_pdf: "https://arxiv.org/pdf/2504.02854?"
+    selected: n
+    recent: y   
+
   - title: "Unlocking Global Optimality in Bilevel Optimization: A Pilot Study."
     authors: "Quan Xiao, Tianyi Chen."
     venue: "Proc. of Intl. Conf. on Learning Representations <b>(ICLR)</b>, Singapore, April 24-28, 2025."
@@ -143,14 +157,10 @@ papers:
     paper_pdf: "https://easychair.org/publications/preprint/KFPl"
     selected: n
 
- 
-
-
   - title: "Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF."
     authors: "Han Shen, Zhuoran Yang, Tianyi Chen."
     venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
     paper_pdf: "https://arxiv.org/pdf/2402.06886"
-    # code: "https://github.com/facebookresearch/social-catalysts"
     selected: n
     recent: y
 
@@ -158,8 +168,6 @@ papers:
     authors: "Shuai Zhang, Heshan Devaka Fernando, Miao Liu, Keerthiram Murugesan, Songtao Lu, Pin-Yu Chen, Tianyi Chen, Meng Wang."
     venue: "<i>Proc. of Intl. Conf. on Machine Learning</i> <b>(ICML)</b>, Vienna, Austria, July 21-27, 2024."
     paper_pdf: "https://arxiv.org/pdf/2405.15920"
-    # code: "https://github.com/sanzeed/balanced_influence_maximization"
-    # data: "https://github.com/sanzeed/balanced_influence_maximization"
     selected: n
     recent: y   
   
