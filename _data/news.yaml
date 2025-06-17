@@ -1,11 +1,11 @@
 news_items:
   - item: "Our group will be moving to <a href='https://tech.cornell.edu/'target='_blank'><b>Cornell Tech</b></a> - a graduate campus of Cornell University on Roosevelt Island in New York City"
-    date: "July 2025"
+    date: "Aug 2025"
     selected: y 
 
   - item: "I am invited to present our work at <b>Okinawa Institute of Science and Technology</b> (OIST)"
     link: "https://www.oist.jp/"
-    date: "June 2025"
+    date: "Jun 2025"
     selected: y 
 
   - item: "I am honored to be promoted to <b>Associate Professor with tenure</b> at RPI, effective July 2025"
