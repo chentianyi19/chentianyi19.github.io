@@ -195,11 +195,11 @@ h4 {
    background: #f0fbff;
    border-left: 4px solid #B509AC;
    padding: 0.5rem 1.5rem;
-   margin: 1rem 0;
+   margin: 0.5rem 0.5rem;
   }
 
  .bio‑highlight p {
-  color: #B509AC;
+  color: #003366;
   margin: 0;
  }
 }
