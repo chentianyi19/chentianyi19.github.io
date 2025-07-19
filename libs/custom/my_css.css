@@ -85,6 +85,18 @@ h4 {
   align-items: flex-start; /* default align on desktop */
 }
 
+/* Default (desktop) */
+.profile-pic {
+  max-width: 120%;
+}
+
+/* On small screens (mobile) */
+@media (max-width: 768px) {
+  .profile-pic {
+    max-width: 80%;
+  }
+}
+
 /* On mobile: show side-by-side */
 @media (max-width: 768px) {
     .main-description {
