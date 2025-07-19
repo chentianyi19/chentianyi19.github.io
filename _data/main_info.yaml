@@ -1,11 +1,15 @@
 name: "Tianyi Chen"
 title: "Associate Professor, <br />
 Department of Electrical and Computer Engineering,<br />
-Cornell University and Cornell Tech"
-email: "chentianyi19 [AT] gmail.com"
-location: "Bloomberg Center<br />
+Cornell Tech and Cornell University"
+email: "chentianyi19 [AT] gmail.com <br />
+tianyi.chen [AT] cornell.edu"
+location: "Bloomberg Center 254<br />
 2 W Loop Rd, New York 10044"
 profile_pic: "/assets/profile-pics/TianyiChen_small.jpeg"
+CT_pic: "/assets/CT_logo.jpg"
+CU_pic: "/assets/cornell_logo.jpg"
 twitter: "https://x.com/Tianyi2020"
 google_scholar: "https://scholar.google.com/citations?hl=en&user=kFwvv38AAAAJ&view_op=list_works&sortby=pubdate"
-linkedin: "https://faculty.rpi.edu/tianyi-chen"
+linkedin: "https://www.linkedin.com/in/tianyichen1991/"
+github: "https://tech.cornell.edu/people/tianyi-chen/"
