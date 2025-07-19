@@ -86,14 +86,24 @@ h4 {
 
 /* On mobile: show side-by-side */
 @media (max-width: 768px) {
-  .right-logos {
-    flex-direction: row;
-    gap: 10px;
+    .main-description {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+    .right-logos {
+    justify-content: center;
+    align-items: center;
+    flex-direction: row; /* side-by-side logos on mobile */
+    display: flex;
     margin-top: 15px;
   }
 
   .right-logos img {
-    height: 60px; /* Optional: reduce size for mobile */
+    height: 50px; /* Optional scaling for mobile */
+    margin: 0 5px; /* spacing between logos */
   }
 }
 
