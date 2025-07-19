@@ -82,6 +82,7 @@ h4 {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  align-items: flex-start; /* default align on desktop */
 }
 
 /* On mobile: show side-by-side */
@@ -93,14 +94,13 @@ h4 {
     display: flex;
     flex-direction: column;
   }
-    .right-logos {
+  .right-logos {
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    flex-direction: row; /* side-by-side logos on mobile */
-    display: flex;
+    width: 100%; /* ensure full width so centering works */
     margin-top: 15px;
   }
-
   .right-logos img {
     height: 50px; /* Optional scaling for mobile */
     margin: 0 5px; /* spacing between logos */
